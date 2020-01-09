@@ -1,16 +1,58 @@
-# workerapp
+# HustleUp Movers App
 
-A new Flutter project.
+Moving your office?  Like _yesterday_? 
 
-## Getting Started
+    Find the right moving talent by date, location, scope, and expertise.
 
-This project is a starting point for a Flutter application.
+Need a great _Side Hu$tle_?
 
-A few resources to get you started if this is your first Flutter project:
+    Find the most convenient and lucrative moving project in just a few clicks!
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Get HustleUp Movers App . . . a moving logistics platform.  
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+In iOS and Android.
+    
+___Hustle Up ... Let's Go!___
+
+---
+
+### Github Repo
+
+The repo is located at https://github.com/marktefftech/workerapp.
+
+### Launch Your Mobile Emulator
+
++ In a new terminal, list your available emulators:
+```
+    $> flutter emulators
+```
+
++ Select the name/id to run your emulator:
+```
+    $> flutter emulators --launch <emulator_name/id>
+```
+
+### Build Dependencies, Clean & Run
+
++ In a new terminal, run the following commands:
+```
+    $> flutter packages get
+    $> flutter clean
+    $> flutter run
+```
+
+## Data Services
+
+- Firebase Cloud FireStore
+
+## Dependencies
+
+#### Flutter/Dart
+```
+$> flutter packages get
+```
+#### iOS
+```
+$> pod install
+```
+
